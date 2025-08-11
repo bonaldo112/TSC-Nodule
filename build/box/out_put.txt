@@ -1,0 +1,2 @@
+/root/anaconda3/envs/nodule/compiler_compat/ld: cannot open output file build/lib.linux-x86_64-cpython-37/box.cpython-37m-x86_64-linux-gnu.so: No such file or directory
+collect2: error: ld returned 1 exit status
